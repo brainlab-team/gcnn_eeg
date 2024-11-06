@@ -22,5 +22,13 @@ pip install tensorboard==2.13.0 tensorflow==2.13.0 torch==1.12.1 torch-geometric
 
 ## Run the code
 
-prova
+Run the following code to train the model 
+```bash
+python script_name.py number_of_epochs ./train_fold -a
+```
+
+Run the following code to test a trained model
+```bash
+python script_name.py number_of_epochs ./saved_model_path -t
+```
 
