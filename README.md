@@ -18,3 +18,9 @@ Make sure to install these dependencies using the following command:
 
 ```bash
 pip install tensorboard==2.13.0 tensorflow==2.13.0 torch==1.12.1 torch-geometric==2.3.1 torch-scatter==2.1.0+pt112cu102 torchaudio==0.12.1 torcheeg==1.0.11
+```
+
+## Run the code
+
+prova
+
