@@ -2,7 +2,7 @@
 
 This repository contains the code for training and testing a Dynamical Graph Convolutional Neural Network for classifying emotions from EEG signals.
 
-![Alt text](./dgcnn_new.png "Optional title")
+![Alt text](./dgcnn-new.png "Optional title")
 
 ## Required Modules and Versions
 
