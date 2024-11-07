@@ -1,7 +1,7 @@
 # EEG-Based Emotion Recognition using Dynamic Graph Convolutional Neural Networks
 
 This repository contains the code for training and testing a Dynamical Graph Convolutional Neural Network for classifying emotions from EEG signals.
-
+# If you want to read the entire paper, you can click [here](https://ieeexplore.ieee.org/abstract/document/10650427?casa_token=kAbRV7Vhd9YAAAAA:8EFN5mnwg0tfp-642l0ZyeSsvDJXnt-_zHY_TMmxq6GvhraV_BDqVbnf3XF49K5kUGFE81sCVA)
 ![Alt text](./dgnn-new.png "Optional title")
 
 ## Required Modules and Versions
@@ -33,6 +33,6 @@ Run the following code to test a trained model
 ```bash
 python script_name.py number_of_epochs ./saved_model_path -t
 ```
-# If you want to read the entire paper, you can click [here](https://ieeexplore.ieee.org/abstract/document/10650427?casa_token=kAbRV7Vhd9YAAAAA:8EFN5mnwg0tfp-642l0ZyeSsvDJXnt-_zHY_TMmxq6GvhraV_BDqVbnf3XF49K5kUGFE81sCVA)
+
 
 
